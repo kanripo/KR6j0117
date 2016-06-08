@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:09.790146
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:19
 #+TITLE: 大佛頂大陀羅尼
 #+PROPERTY: CBETA_ID T19n0944B
 #+PROPERTY: ID KR6j0117
@@ -12,9 +12,8 @@
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.944B¶
-
- 大佛頂大陀羅尼¶
+No. 944B¶
+大佛頂大陀羅尼¶
 ¶
 
 　　¶
